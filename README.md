@@ -1,4 +1,4 @@
-# pointer_motion.py
+# Pointer Motion
 
 > This is the highest quality cursor generator you can use
 
