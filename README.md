@@ -1,5 +1,7 @@
 # pointer_motion.py
 
+> This is the highest quality cursor generator you can use
+
 Generates human-like mouse trajectories between a series of waypoints. Instead of moving in straight lines at constant speed, the generated paths curve, accelerate, decelerate, and jitter the way a real hand does.
 
 ## Usage
